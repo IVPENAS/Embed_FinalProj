@@ -3,6 +3,8 @@ import tensorflow as tf
 
 @st.cache(allow_output_mutation=True)
 def load_model():
+  
+#upload the model here
   model=tf.keras.models.load_model('plant_classifier.hdf5')
   return model
 model=load_model()
