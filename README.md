@@ -1,4 +1,5 @@
 # Embed_FinalProj
 Final Exam: Model Deployment in the Cloud
-![alt text]([http://url/to/img.png](https://cdn-japantimes.com/wp-content/uploads/2018/12/n-cats-a-20181226.jpg))
+
+![n-cats-a-20181226](https://github.com/IVPENAS/Embed_FinalProj/assets/111822151/07779232-ea8c-4e2f-8a9f-09dba009c803)
 
