@@ -11,6 +11,7 @@ def load_model():
 model=load_model()
 st.title(" Cat and Dog Classifier 🐱🐶")
 st.subheader("Final Exam: Model Deployment in the Cloud")
+st.image('./header.png')
 file=st.file_uploader("Choose a photo from your computer",type=["jpg","png"])
 
 def import_and_predict(image_data,model):
