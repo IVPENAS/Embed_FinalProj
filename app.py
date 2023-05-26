@@ -32,10 +32,11 @@ else:
     string="OUTPUT : "+class_names[np.argmax(prediction)]
     st.success(string)
     
-st.sidebar.markdown("Creators")
+st.sidebar.header("Creators")
 st.sidebar.write("----")
 st.sidebar.image("https://github.com/IVPENAS/Embed_FinalProj/assets/111822151/aea7fd1b-76e6-4500-af91-bd1b8070a6e6")
-    
+st.sidebar.write("— Peñas, Issa Victoria H.")
+st.sidebar.write("— Villamor, Earl Kristian G.")
 
 
 #Final Exam: Model Deployment in the Cloud
