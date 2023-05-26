@@ -8,7 +8,7 @@ Created By:
 - Peñas, Issa Victoria H.
 - Villamor, Earl Kristian G.
 
-< p align = 'justify'> The cat and dog classifier using CNN learning is a machine learning model designed to accurately distinguish between images of cats and dogs. It leverages the power of Convolutional Neural Networks, a specialized type of neural network architecture that excels at extracting meaningful features from visual data.
+<p align = "justify"> The cat and dog classifier using CNN learning is a machine learning model designed to accurately distinguish between images of cats and dogs. It leverages the power of Convolutional Neural Networks, a specialized type of neural network architecture that excels at extracting meaningful features from visual data.</p>
 
 The classifier begins by inputting an image into the network. The image is then processed through multiple layers of convolutional filters, which detect various patterns and features present in the image. These filters capture low-level features like edges and textures, gradually progressing to higher-level features like shapes and object parts.
 
