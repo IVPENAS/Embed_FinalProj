@@ -11,7 +11,7 @@ def load_model():
 model=load_model()
 st.title(" Cat and Dog Classifier 🐱🐶")
 st.subheader("Final Exam: Model Deployment in the Cloud")
-st.image('./header.png')
+st.image('https://github.com/IVPENAS/Embed_FinalProj/assets/111822151/07779232-ea8c-4e2f-8a9f-09dba009c803')
 file=st.file_uploader("Choose a photo from your computer",type=["jpg","png"])
 
 def import_and_predict(image_data,model):
