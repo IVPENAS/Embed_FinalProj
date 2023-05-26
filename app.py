@@ -15,7 +15,7 @@ st.image('https://github.com/IVPENAS/Embed_FinalProj/assets/111822151/07779232-e
 file=st.file_uploader("Choose a photo from your computer",type=["jpg","png"])
 
 def import_and_predict(image_data,model):
-    size=(128,128)
+    size=(200,200)
     image = ImageOps.fit(image_data,size, Image.LANCZOS)
     image = np.asarray(image)
     image = image / 255.0
