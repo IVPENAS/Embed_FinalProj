@@ -12,7 +12,7 @@ model=load_model()
 st.title(" Cat and Dog Classifier 🐱🐶")
 st.write("Final Exam: Model Deployment in the Cloud")
 st.image('https://github.com/IVPENAS/Embed_FinalProj/assets/111822151/07779232-ea8c-4e2f-8a9f-09dba009c803')
-st.write("Please Refer to the images in this link: ")
+st.write("Please Refer to the images in this link: https://drive.google.com/drive/folders/1ACNxP9nFiXwnQ2lhiLqTIBJkLSg65zf-?usp=sharing")
 file=st.file_uploader("Choose a photo from your computer",type=["jpg","png"])
 
 def import_and_predict(image_data,model):
