@@ -8,13 +8,10 @@ Created By:
 - Peñas, Issa Victoria H.
 - Villamor, Earl Kristian G.
 
-<p align = "justify"> The cat and dog classifier using CNN learning is a machine learning model designed to accurately distinguish between images of cats and dogs. It leverages the power of Convolutional Neural Networks, a specialized type of neural network architecture that excels at extracting meaningful features from visual data.</p>
+<p align = "justify"> Due to our interest about animals specifically Cats and Dogs, allowed us to create a custom dataset to our Classifier utilized on Convolutional Neural Network learning model which is designed to distinguish using [number of ssize] pictures between the mentioned animals. The Classfier starts by inputting a image into the network which it'll be processed through multiple layers of convolutional filters allowing to distinguish patterns and features present in the inputted image, in which the network will gradually determine the different characteristics of a cat and dog including [1] ears, [2] tail, [3] snout, or [4] eyes which by then inputed to the fully conncted layers consolidating the informmation and making predictions about the image's class. By modifying the weights and biases of its network based on the discrepancies between predicted and real labels throughout the training phase will result an improvement upon the classifier. The model can iteratively adjust its parameters through a method called backpropagation to increase its accuracy over time. Once the model was trained
+</p>
+Once trained, the cat and dog classifier may be used with any image as input and output a probability score indicating whether the image contains a cat or a dog. For instance, the model classifies a picture as a cat if the output probability for "cat" is higher than the one for "dog," and vice versa.
 
-The classifier begins by inputting an image into the network. The image is then processed through multiple layers of convolutional filters, which detect various patterns and features present in the image. These filters capture low-level features like edges and textures, gradually progressing to higher-level features like shapes and object parts.
-
-As the image passes through the convolutional layers, the network learns to recognize distinguishing characteristics of cats and dogs, such as the shape of their ears, snout, or tail. These learned features are then fed into fully connected layers, which consolidate the information and make predictions about the image's class.
-
-During the training phase, the classifier learns by adjusting the weights and biases of its network based on the differences between predicted and actual labels. This process, known as backpropagation, allows the model to iteratively fine-tune its parameters to improve its accuracy over time.
 
 Once the training is complete, the cat and dog classifier can take any given image as input and output a probability score indicating the likelihood of the image depicting a cat or a dog. For instance, if the output probability for "cat" is higher than the one for "dog," the model classifies the image as a cat, and vice versa.
 
