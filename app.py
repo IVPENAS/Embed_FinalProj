@@ -33,7 +33,7 @@ else:
     st.success(string)
     
 st.sidebar.success("Details")
-st.sidebar.text("wow")
+st.sidebar.image("https://github.com/IVPENAS/Embed_FinalProj/assets/111822151/07779232-ea8c-4e2f-8a9f-09dba009c803")
     
 
 
