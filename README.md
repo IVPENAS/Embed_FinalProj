@@ -3,7 +3,6 @@
 Final Exam: Model Deployment in the Cloud
 
 ![n-cats-a-20181226](https://github.com/IVPENAS/Embed_FinalProj/assets/111822151/07779232-ea8c-4e2f-8a9f-09dba009c803)
-![348356891_1240888763215257_1084263206917915657_n](https://github.com/IVPENAS/Embed_FinalProj/assets/111822151/aea7fd1b-76e6-4500-af91-bd1b8070a6e6)
 
 Created By:
 - Peñas, Issa Victoria H.
