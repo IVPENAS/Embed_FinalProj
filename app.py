@@ -33,7 +33,7 @@ else:
     st.success(string)
     
 st.sidebar.success("Details")
-st.sidebar.write("wow")
+st.sidebar.success("wow")
     
 
 
