@@ -32,7 +32,7 @@ else:
     string="OUTPUT : "+class_names[np.argmax(prediction)]
     st.success(string)
     
-st.sidebar.success("Details")
+st.sidebar.header("Creators")
 st.sidebar.image("https://github.com/IVPENAS/Embed_FinalProj/assets/111822151/aea7fd1b-76e6-4500-af91-bd1b8070a6e6")
     
 
