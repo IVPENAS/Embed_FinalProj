@@ -19,7 +19,7 @@ def import_and_predict(image_data,model):
     image = ImageOps.fit(image_data,size, Image.LANCZOS)
     image = np.asarray(image)
     image = image / 255.0
-    img_reshape = np.reshape(image, (1, 128, 128, 3))
+    img_reshape = np.reshape(image, (2, 300, 300, 3))
     prediction = model.predict(img_reshape)
     return prediction
 if file is None:
