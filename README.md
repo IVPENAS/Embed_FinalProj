@@ -7,3 +7,7 @@ Final Exam: Model Deployment in the Cloud
 Created By:
 - Peñas, Issa Victoria H.
 - Villamor, Earl Kristian G.
+
+
+
+Streamlit Link: https://ivpenas-embed-finalproj-app-d00y67.streamlit.app
