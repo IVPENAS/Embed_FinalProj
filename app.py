@@ -31,6 +31,8 @@ else:
     class_names=['Apple', 'Tomato']
     string="OUTPUT : "+class_names[np.argmax(prediction)]
     st.success(string)
+    
+st.sidebar.success("Details")
 
     
 
