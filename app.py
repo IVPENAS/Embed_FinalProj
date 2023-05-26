@@ -34,7 +34,6 @@ else:
     
 st.sidebar.image("https://github.com/IVPENAS/Embed_FinalProj/assets/111822151/aea7fd1b-76e6-4500-af91-bd1b8070a6e6")
 st.sidebar.header("Created by:")
-st.sidebar.write("---")
 st.sidebar.write("— Peñas, Issa Victoria H.")
 st.sidebar.write("— Villamor, Earl Kristian G.")
 st.sidebar.markdown("Due to our interest about animals specifically Cats and Dogs, allowed us to create a custom dataset to our Classifier utilized on Convolutional Neural Network learning model which is designed to distinguish using [number of ssize] pictures between the mentioned animals. The Classfier starts by inputting a image into the network which it'll be processed through multiple layers of convolutional filters allowing to distinguish patterns and features present in the inputted image, in which the network will gradually determine the different characteristics of a cat and dog including [1] ears, [2]] tail, [3] snout, or [4] eyes which by then inputed to the fully conncted layers consolidating the informmation and making predictions about the image's class. By modifying the weights and biases of its network based on the discrepancies between predicted and real labels throughout the training phase will result an improvement upon the classifier. The model can iteratively adjust its parameters through a method called backpropagation to increase its accuracy over time. Once the model was trained and completed the classifier can be inputted images from the user and output the preditions whether the images contains a cat or a dog.")
