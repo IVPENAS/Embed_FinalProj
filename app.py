@@ -6,7 +6,7 @@ import numpy as np
 
 @st.cache_resource
 def load_model():
-  model=tf.keras.models.load_model('weights-improvement-16-0.89.hdf5')
+  model=tf.keras.models.load_model('model.h5')
   return model
 model=load_model()
 st.title(" Cat and Dog Classifier 🐱🐶")
